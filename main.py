@@ -4,7 +4,7 @@ from tkinter import messagebox,filedialog
 
 root = Tk()
 root["bg"] = "grey"
-root.title("Parser image")
+root.title("Parser image by _sineD_0")
 
 name = StringVar()
 quantity = StringVar()
